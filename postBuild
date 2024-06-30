@@ -1,1 +1,3 @@
+pip install -U ipywidgets
 npm install
+jupyter nbextension enable --py widgetsnbextension
