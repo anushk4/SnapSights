@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@jupyter-widgets/jupyterlab-manager": "^2.0.0"
+  }
+}
