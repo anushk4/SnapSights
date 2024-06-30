@@ -164,5 +164,4 @@ cython_debug/
 node_modules
 static_images/train
 static_images/test
-checkpoints
 mean_and_std.pt
