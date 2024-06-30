@@ -1,6 +1,6 @@
 ## SnapSights
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anushk4/SnapSights/HEAD?labpath=%2Fapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anushk4/SnapSights/HEAD?urlpath=voila%2Frender%2Fpath%2Fto%2Fapp.ipynb)
 
 ![alt text](/static_images/image.png)
 
